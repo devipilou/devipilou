@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/devipilou/portfolio)
 
-- 🌱 I’m currently learning **Javascript,Node.js and Webpack**
+- 🌱 I’m currently learning **Node.js and javascript server-side rendering**
 
 - 👨‍💻 All of my projects are available at [https://perezpl.fr](https://perezpl.fr)
 
-- 💬 Ask me about **developping skills by yourselves**
+- 💬 Ask me about **Staying creative and spreading kindness**
 
 - 📫 How to reach me **devipilou@gmail.com**
 
