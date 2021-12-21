@@ -30,5 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devipilou&show_icons=true&locale=en" alt="devipilou" /></p>
 
-<a href="https://app.daily.dev/devipilou"><img src="https://github.com/devipilou/devipilou/devcard.svg" width="400" alt="devipilou's Dev Card"/></a>
+<a href="https://app.daily.dev/devipilou"><img src="https://github.com/devipilou/devipilou/blob/main/devcard.svg" width="400" alt="devipilou's Dev Card"/></a>
 
