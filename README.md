@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/devipilou/portfolio)
 
-- 🌱 I’m currently learning **Node.js and javascript server-side rendering**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://perezpl.fr](https://perezpl.fr)
 
