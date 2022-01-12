@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm @devipilou</h1>
-<h3 align="center">A junior WebDev</h3>
+<h3 align="center">A junior Javascript WebDev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devipilou&label=Profile%20views&color=0e75b6&style=flat" alt="devipilou" /> </p>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/devipilou/portfolio)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://perezpl.fr](https://perezpl.fr)
 
